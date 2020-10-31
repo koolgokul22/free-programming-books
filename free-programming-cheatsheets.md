@@ -114,3 +114,6 @@
 
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
+
+### GCP Cheatsheet
+* [GCP CheatSheet](https://gist.github.com/koolgokul22/1f7a3e2b86978282b52223ad5bf149a9.js) - Gokul Kumar R
